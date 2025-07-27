@@ -1,0 +1,4 @@
+temperature,humidity,transport_time,distance,shelf_life_remaining
+25,80,5,120,7
+30,90,6,100,4
+28,85,4,150,5
